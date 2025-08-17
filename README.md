@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @bummboomdum
-- 👀 I’m interested in python, krita, blender, design, graphics, comic, novels, cad, godot engine
-- 🌱 I’m currently learning what needs to be done
-- 💞️ I’m looking to collaborate on nothing
-- 📫 email
-- 😄 
-- ⚡ I have super-useless abilities.
+# 👋 Hi, I’m @bummboomdum
+
+- 👀 I’m interested in @Krita, @Blender, #design, #graphics, #comic, @FreeCAD, @Python (just only for fun)
+- 🌱 I'm currently learning what will be to help me solve current issues
+- 💞️ I'm looking to collaborate on nothing
+- ⚡ 😄 
